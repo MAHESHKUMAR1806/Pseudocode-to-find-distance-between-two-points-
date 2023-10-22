@@ -1,1 +1,0 @@
-# Pseudocode-to-find-distance-between-two-points-
